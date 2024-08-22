@@ -1,14 +1,10 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: AutoFlow Blog
+title: AutoFlow Blog & Resources
+description: A repository of knowledge by AutoFlow for Developers and QAs
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - knowledge
 show_hero: true
 menu:
   - title: Home
@@ -19,7 +15,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: sahil@autoflowapp.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting

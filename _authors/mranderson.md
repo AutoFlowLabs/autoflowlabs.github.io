@@ -1,10 +1,10 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: mranderson
-display_name: Mr. Anderson
-position: The One
-bio: Bulletproof hacker passionate about leather clothes.
+name: SahilCodesIt
+display_name: Sahil Choudhary
+position: CEO
+bio: Loves to build things and help the developer and QA community to build amazing things!
 github_username: github_username
 facebook_username: facebook_username
 twitter_username: twitter_username
