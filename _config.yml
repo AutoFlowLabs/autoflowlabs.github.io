@@ -1,14 +1,13 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: AutoFlow Blog
+title: Autoflow | AI-powered software for the automated ui testing
+description: Autoflow is a software company that uses AI to automate ui testing.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - ui testing
+  - automated testing
+  - ai
+  - playwright
+  - artificial intelligence
 show_hero: true
 menu:
   - title: Home
@@ -19,7 +18,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: sahil@autoflowapp.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -61,7 +60,7 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
+show_get_theme_btn: false
 use_logo: false
 future: true
 
@@ -111,4 +110,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.2
+# version: v3.1.2
