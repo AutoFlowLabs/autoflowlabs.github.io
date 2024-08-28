@@ -23,7 +23,7 @@ email: sahil@autoflowapp.com
 disqus_username: https-blog-autoflow-tools
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: xldrzwlw
 
 
 # Social Media Settings
@@ -63,7 +63,7 @@ collections:
 paginate_path: "/page/:num/"
 show_get_theme_btn: false
 use_logo: true
-future: true
+# future: true
 
 # Content paginator
 paginate_content:
