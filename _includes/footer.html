@@ -26,8 +26,13 @@
         </a>
       {% endif %}
       {% if site.linkedin_username %}
-        <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn">
+        <a href="https://www.linkedin.com/{{ site.linkedin_username }}" title="LinkedIn">
           <svg><use xlink:href="#icon-linkedin"></use></svg>
+        </a>
+      {% endif %}
+      {% if site.discord_username %}
+        <a href="https://discord.gg/{{ site.discord_username }}" title="Discord">
+          <svg><use xlink:href="#icon-discord"></use></svg>
         </a>
       {% endif %}
     </p>
