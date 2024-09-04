@@ -1,6 +1,7 @@
+formspree_form_id: xldrzwlw
 name: AutoFlow Blog
 title: Autoflow | AI-powered software for the automated ui testing
-description: Autoflow is a software company that uses AI to automate ui testing.
+description: Autoflow is a software company that uses AI to automate End to End Testing.
 tags:
   - ui testing
   - automated testing
@@ -17,9 +18,5 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: sahil@autoflowapp.com
-# See: https://disqus.com/
+email: contact@autoflowapp.com
 disqus_username: https-blog-autoflow-tools
-# Contact Form Setting
-# See: https://formspree.io/
-formspree_form_id: xldrzwlw
