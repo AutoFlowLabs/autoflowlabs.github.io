@@ -6,7 +6,7 @@ title: About
 permalink: /about/
 description: About AutoFlow and AutoFlow Studio
 ---
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
+<img src="https://ik.imagekit.io/du5yq7zec/Landing%20Page/cropped_logo_black.png?updatedAt=1724831081703" alt="AutoFlow Logo" width="200">
 
 # About
 
