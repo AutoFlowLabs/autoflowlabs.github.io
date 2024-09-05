@@ -123,6 +123,6 @@ Both Playwright and Puppeteer are spot-on regarding their scope of application, 
 
 While Playwright and Puppeteer are both compelling choices for browser automation, AutoFlow Studio presents a user-friendly and scriptless approach to automation. This automation testing tool enables teams to transition to cross-browser testing without extensive coding. The shift-left testing functionalities, AI-driven test maintenance, and NLP capabilities are big pluses that improve AutoFlow Studio's appeal. 
 
-Transition to AutoFlow Studio and discover how to fast-track your test automation requirements effectively. Sign up to learn more with a 30-day trial.
+Transition to AutoFlow Studio and discover how to fast-track your test automation requirements effectively. [Sign up to learn more with a 30-day trial.](https://tally.so/r/wQDqZG)
 
 <!--EndFragment-->
