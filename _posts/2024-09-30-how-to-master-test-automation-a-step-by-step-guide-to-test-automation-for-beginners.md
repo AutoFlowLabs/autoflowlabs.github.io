@@ -74,9 +74,7 @@ The following table showcases the most common types of automation testing method
 
 <!--EndFragment-->
 
-
-
-| Test Type                    | Description                                                                                                                                                                                                                         | Highlights                                                                                                                                                  |
+| **Test Type**                | **Description**                                                                                                                                                                                                                     | **Highlights**                                                                                                                                              |
 | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ***Functional Testing***     | It evaluates software against predefined functional requirements or specifications using primarily black-box testing (behavioral testing), where the tester is unaware of the internal design or structure of the test item.        | Focuses on the system's fundamental tasks, usability, and accessibility Examples: Integration testing, User acceptance testing, Smoke testing, Unit testing |
 | ***Unit Testing***           | Performed by developers to test individual elements or functions in isolation, verifying that they work as intended. It helps identify bugs early in development, reducing the cost of bug fixes and facilitating code reusability. | Precedes integration testing. Categories: Black-box, White-box, and Grey-box testing                                                                        |
@@ -339,8 +337,6 @@ Test automation tools help maintain consistency across varied testing environmen
 
 ![](/assets/img/uploads/whatsapp-image-2024-09-24-at-16.43.01_f3ea6e11.jpg "Popular test automation tools")
 
-
-
 | **Tool**              | **Description**                                                                                                                                                                                                                                          | **Key Use Cases**                                                                                                         |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | ***Selenium***        | It is a popular open-source test automation framework for web applications. Selenium simulates user interactions and automatically validates web application behavior. Selenium supports multiple languages, including Python, C#, Java, and JavaScript. | Testing browser extensions, Online task automation, Interactive demos, Data extraction                                    |
@@ -356,8 +352,6 @@ Test automation tools help maintain consistency across varied testing environmen
 <!--StartFragment-->
 
 *Table 2: Head-to-head comparison between popular automation tools*
-
-
 
 <!--EndFragment-->
 
